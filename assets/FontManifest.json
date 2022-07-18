@@ -13,9 +13,14 @@
       {
         "asset": "fonts/Montserrat-Light.ttf",
         "weight": 300
-      },
+      }
+    ]
+  },
+  {
+    "family": "MaterialIcons",
+    "fonts": [
       {
-        "asset": "fonts/MaterialIcons-Regular.ttf"
+        "asset": "fonts/MaterialIcons-Regular.otf"
       }
     ]
   }
