@@ -61700,14 +61700,18 @@ $0(){var s=this.a
 s.aw(new A.a97(s))},
 $S:0}
 A.a97.prototype={
-$0(){this.a.f="HOME"},
+$0(){var s=this.a
+s.f="HOME"
+s.d=0},
 $S:0}
 A.a99.prototype={
 $0(){var s=this.a
 s.aw(new A.a98(s))},
 $S:0}
 A.a98.prototype={
-$0(){this.a.f="HOME"},
+$0(){var s=this.a
+s.f="HOME"
+s.d=0},
 $S:0}
 A.a9b.prototype={
 $0(){var s=this.a,r=this.b
